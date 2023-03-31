@@ -1,33 +1,33 @@
 
-  # module-9-challenge
+  # Module-9-Challenge
 
 
 # Table of Content
--[Description]
--[Usage]
--[Installation]
--[License]
--[Contribution]
--[Questions]
+-[Description](#projectDescription)
+-[Usage](#projectUsage)
+-[Installation](#projectInstallation)
+-[License](#licenseOptions)
+-[Contribution](#projectContribution)
+-[Questions](#username)
 
 
 
 ## Description
-undefined
+A Simple Readme generator
 
 ## Usage
- To generate readme files about projects
+ To simplify creating a readme file for the user
 
 ## Installation
-clone github repository and run in vs code
+clone the repository
 
 ## License
 None
 
 ## Contribution
- just me
+ Just me
 
 ## Questions
-Username: johnfitz3
-Email: undefined
+Username: Johnfitz3
+Email: irishjohn694@gmail.com
 

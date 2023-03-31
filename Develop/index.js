@@ -68,9 +68,8 @@ validate: projectInstallationInput => {
 }
 },
     
-    //Q3 LICENSE
-    {
-        type: 'list',
+    //Q5 LICENSE
+    {        type: 'list',
         name: 'licenseOptions',
         message: 'Please select a license' ,
         choices: [
@@ -81,15 +80,16 @@ validate: projectInstallationInput => {
         ],
         
     },
-    
+    // Q6 CONTRIBUTION
    {
     type: 'input', 
     name:'projectContribution',
     message: 'List people the contributed to this project'
    },
   
-     //Q4 USERNAME
+     //Q7 USERNAME
     {
+        
         type: 'input',
         name: 'username',
         message: 'Please enter your username' ,
@@ -103,9 +103,10 @@ validate: projectInstallationInput => {
         }
     },
 
-    //Q5 EMAIL
+    //Q8 EMAIL
 
     {
+      
         type: 'input',
         name: 'emailAddress',
         message: ' Please enter your email address' ,
